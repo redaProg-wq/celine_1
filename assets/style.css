@@ -12,8 +12,10 @@
 
   /* Boutons */
 
+  
 
 
+ /*Button89*/
 .button-89 {
   --b: 3px;   /* border thickness */
   --s: .45em; /* size of the corner */
@@ -46,7 +48,7 @@
 
 .button-89:active {
   background: var(--color);
-  color: #fff;
+  color: black;
 }
 
  
@@ -67,6 +69,13 @@
     text-decoration: none;
     color: #6D071A;
     
+  }
+
+  .nav ul li a:hover{
+    border: hidden;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2px darkred;
+    color: saddlebrown;
   }
 
   .nav ul {

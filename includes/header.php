@@ -5,14 +5,15 @@
       </h1>
       
       
-      <nav class="nav">
+      
+      <nav class="nav ">
         <ul class=" d-flex  flex-row justify-content-evenly" >    
-       <li> <a class="nav-link active" aria-current="page" href="./index.html">Celine</a></li>
-       <li> <a class="nav-link" href="./Our_studio.html">Voyance</a></li>
-       <li> <a class="nav-link" href="./RCMResults.html">Magnetisme</a></li>
-       <li> <a class="nav-link" href="./competitionresults.html">Questions</a></li>
-       <li> <a class="nav-link" href="./videos.html">Témoignages</a></li>
-       <li> <a class="nav-link" href="./contacts.html">Contacts</a></li>
+       <li> <a class="nav-link active" aria-current="page" href="./index.php">Celine</a></li>
+       <li> <a class="nav-link" href="#">Voyance</a></li>
+       <li> <a class="nav-link" href="#">Magnetisme</a></li>
+       <li> <a class="nav-link" href="#">Questions</a></li>
+       <li> <a class="nav-link" href="#">Témoignages</a></li>
+       <li> <a class="nav-link" href="#">Contacts</a></li>
         </ul>
       </nav>
 
