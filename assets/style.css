@@ -74,7 +74,7 @@
   .nav ul li a:hover{
     border: hidden;
     border-radius: 10%;
-    box-shadow: 2px 2px 2px darkred;
+    box-shadow: 0px 2px 0px saddlebrown;
     color: saddlebrown;
   }
 
