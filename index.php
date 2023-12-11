@@ -15,26 +15,29 @@
 
 
             
-            <div class="txt_acceuil container-fluid d-flex flex-column align-items-center col-10">
-                <h2 class="fontdancing text-center"> Céline, Voyante et Magnetiseuse</h2>
-                <p class="text-center">A Six-Fours, dans le Var, et Partout dans le monde</p>
-                <button class="button-89 mt-1"> En savoir plus</button>
+            <div class="txt_acceuil container-fluid d-flex flex-column align-items-center col-10 mt-5">
+                <h2 class="fontdancing text-center mt-2"> Céline, Voyante et Magnetiseuse</h2>
+                <p class="  ">A Six-Fours-les-Plages, dans le Var, et Partout dans le monde <br> <br>
+                    Accompagnement,  Magnetisme,  Voyance au Tarot, à six-fours dans le var... <br>
+                    Et dans le monde, en distanciel</p>
+                <button class="glow-on-hover mt-3" type="button">Découvrir mon univers</button>
+                
             </div>
 
             <div class="txt_acceuil container-fluid d-flex flex-column align-items-center col-10">
                 <h2 class="fontdancing text-center"> Présentations</h2>
-                <p class="text-center">Bonjour à toutes et tous. <br> Je suis Céline ...</p>
+                <p class="">Bonjour à toutes et tous. <br> Je suis Céline ...</p>
                 <button class="button-89 mt-1"> En savoir plus</button>
             </div>
 
             <div class="txt_acceuil container-fluid d-flex flex-column align-items-center col-10">
-                <h2 class="fontdancing text-center">Services de Voyance</h2>
-                <p class="text-center">A Six-Fours, dans le Var, et Partout dans le monde</p>
+                <h2 class="fontdancing text-center">Voyance</h2>
+                <p class="">A Six-Fours, dans le Var, et Partout dans le monde</p>
                 <button class="button-89 mt-1"> En savoir plus</button>
             </div>
 
             <div class="txt_acceuil container-fluid d-flex flex-column align-items-center col-10">
-                <h2 class="fontdancing text-center">Services de Magnetisme </h2>
+                <h2 class="fontdancing text-center">Magnetisme </h2>
                 <p class="text-center">A Six-Fours, dans le Var, et Partout dans le monde</p>
                 <button class="button-89 mt-1"> En savoir plus</button>
             </div>

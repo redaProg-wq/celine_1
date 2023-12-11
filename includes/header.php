@@ -8,12 +8,13 @@
       
       <nav class="nav ">
         <ul class=" d-flex  flex-row justify-content-evenly" >    
-       <li> <a class="nav-link active" aria-current="page" href="./index.php">Celine</a></li>
-       <li> <a class="nav-link" href="#">Voyance</a></li>
-       <li> <a class="nav-link" href="#">Magnetisme</a></li>
-       <li> <a class="nav-link" href="#">Questions</a></li>
-       <li> <a class="nav-link" href="#">Témoignages</a></li>
-       <li> <a class="nav-link" href="#">Contacts</a></li>
+       <li> <a class="nav-link" href="../index.php">Accueil</a></li>
+       <li> <a class="nav-link active" aria-current="page" href="../celine.php">Céline</a></li>
+       <li> <a class="nav-link" href="../voyance.php">Voyance</a></li>
+       <li> <a class="nav-link" href="../magnetisme.php">Magnetisme</a></li>
+       <li> <a class="nav-link" href="../questions.php">Questions</a></li>
+       <li> <a class="nav-link" href="../temoignages.php">Témoignages</a></li>
+       <li> <a class="nav-link" href="../contacts.php">Contacts</a></li>
         </ul>
       </nav>
 
